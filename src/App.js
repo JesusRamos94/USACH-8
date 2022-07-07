@@ -4,7 +4,7 @@ import Services from "./components/Services";
 import Welcome from "./components/Welcome";
 
 
-const App =() => {
+function App() {
   return (
     <>
     <Navbar />
