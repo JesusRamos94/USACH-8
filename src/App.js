@@ -4,8 +4,6 @@ import Services from "./components/Services";
 import Welcome from "./components/Welcome";
 
 
-
-
 const App =() => {
   return (
     <>
