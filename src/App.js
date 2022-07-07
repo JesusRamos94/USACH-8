@@ -6,7 +6,7 @@ import Welcome from "./components/Welcome";
 
 
 
-function App() {
+const App =() => {
   return (
     <>
     <Navbar />
